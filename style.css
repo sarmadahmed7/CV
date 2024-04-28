@@ -1,0 +1,32 @@
+.bg{
+    background-color: rgb(53, 63, 205);
+}
+.bgs{
+    background-color: rgb(145, 76, 76);
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.cap{
+    text-transform: uppercase;
+}
+.hr-pad{
+    width: 79px;
+    height: 7px;
+    background-color: brown;
+    display: inline-block;
+    position: relative;
+    top: -31px ;
+}
+.hr-pa{
+    width: 80%;
+    height: 7px;
+    background-color: brown;
+    display: inline-block;
+    position: relative;
+    top: -31px ;
+}
